@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/addable/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/addable/static/js/main.37f37c23.chunk.js",
+    "main.js.map": "/addable/static/js/main.37f37c23.chunk.js.map",
+    "runtime-main.js": "/addable/static/js/runtime-main.53b84868.js",
+    "runtime-main.js.map": "/addable/static/js/runtime-main.53b84868.js.map",
+    "static/js/2.24ed6ad8.chunk.js": "/addable/static/js/2.24ed6ad8.chunk.js",
+    "static/js/2.24ed6ad8.chunk.js.map": "/addable/static/js/2.24ed6ad8.chunk.js.map",
+    "static/js/3.d958aca2.chunk.js": "/addable/static/js/3.d958aca2.chunk.js",
+    "static/js/3.d958aca2.chunk.js.map": "/addable/static/js/3.d958aca2.chunk.js.map",
+    "index.html": "/addable/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/addable/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.24ed6ad8.chunk.js.LICENSE.txt": "/addable/static/js/2.24ed6ad8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.53b84868.js",
+    "static/js/2.24ed6ad8.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.37f37c23.chunk.js"
+  ]
+}
